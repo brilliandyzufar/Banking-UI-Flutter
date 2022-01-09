@@ -27,7 +27,7 @@ List<TransactionModel> myTransactions = [
     changePercentage: "0.41%",
     changePercentageIndicator: "up",
     month: "Jan",
-    name: "Supreme Leader",
+    name: "Samuel Adhitya",
     color: Colors.green[100],
   ),
   TransactionModel(
@@ -36,7 +36,7 @@ List<TransactionModel> myTransactions = [
     changePercentageIndicator: "down",
     changePercentage: "4.54%",
     month: "Mar",
-    name: "Jane Doe",
+    name: "Andy",
     color: Colors.orange[100],
   ),
   TransactionModel(
@@ -45,7 +45,7 @@ List<TransactionModel> myTransactions = [
     changePercentage: "1.27%",
     changePercentageIndicator: "down",
     month: "Mar",
-    name: "Alex Doe",
+    name: "Rayhan Fadillah",
     color: Colors.red[100],
   ),
   TransactionModel(
@@ -54,7 +54,7 @@ List<TransactionModel> myTransactions = [
     changePercentageIndicator: "up",
     changePercentage: "3.09%",
     month: "Mar",
-    name: "Sam Doe",
+    name: "Aan",
     color: Colors.deepPurple[100],
   ),
   TransactionModel(
@@ -63,7 +63,7 @@ List<TransactionModel> myTransactions = [
     changePercentage: "0.41%",
     changePercentageIndicator: "up",
     month: "Jan",
-    name: "Supreme Leader",
+    name: "Samuel Adhitya",
     color: Colors.green[100],
   ),
   TransactionModel(
@@ -72,7 +72,7 @@ List<TransactionModel> myTransactions = [
     changePercentageIndicator: "down",
     changePercentage: "4.54%",
     month: "Mar",
-    name: "Jane Doe",
+    name: "Andy",
     color: Colors.orange[100],
   ),
 ];

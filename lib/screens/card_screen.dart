@@ -13,7 +13,7 @@ class CardScreen extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: Text(
-          "My Cards",
+          "MOBILE BANKING",
           style: TextStyle(
             fontFamily: "Poppins",
             color: kPrimaryColor,
@@ -22,8 +22,8 @@ class CardScreen extends StatelessWidget {
         leading: Padding(
           padding: const EdgeInsets.all(8.0),
           child: CircleAvatar(
-            backgroundImage:
-                NetworkImage("https://placeimg.com/640/480/people"),
+            backgroundImage: NetworkImage(
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BzGCRFUnQvDPPd8rrI9cHczEpj4ED5avR1pnKjAxkZ3yq_yoCrdXalvDvjLLEaaEMH0&usqp=CAU"),
           ),
         ),
         actions: [
